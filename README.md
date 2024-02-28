@@ -5,4 +5,5 @@ We were tasked with choosing 2 real datasets from the web and performing various
 2. Classification;
 3. Clustering.
 
-The two datasets we chose to work with were: The Pima Indians Diabetes Dataset from Kaggle and The
+The two datasets we chose to work with were: The Pima Indians Diabetes Dataset and The Top 1000 IMDB Movies from Kaggle.
+Each of the datasets was throughly preprocessed.
